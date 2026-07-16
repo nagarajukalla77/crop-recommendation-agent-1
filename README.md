@@ -48,5 +48,4 @@ streamlit run app.py
 Crop Recommendation Dataset containing soil nutrients and environmental conditions.
 
 ## 👨‍💻 Author
-
-Naga Raju
+Raju
