@@ -1,0 +1,13 @@
+[
+    {
+        "N": 75.0,
+        "P": 42.0,
+        "K": 38.0,
+        "Temperature": 27.0,
+        "Humidity": 18.0,
+        "pH": 11.0,
+        "Rainfall": 11.0,
+        "Recommended Crop": "muskmelon",
+        "time": "2026-07-16 15:01:28.707127"
+    }
+]
